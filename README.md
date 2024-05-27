@@ -21,8 +21,7 @@
 <a href="https://hashnode.com/yadhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="yadhu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yadhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yadhu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yadhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yadhu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yadhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yadhu" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/yadhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="yadhu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yadhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yads://www.hackerearth.com/yadhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="yadhu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +30,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/yadhu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yadhu" /></a></p><br><br>
 
+kvnsjkvnsjknvskvkbb
